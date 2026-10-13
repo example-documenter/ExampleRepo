@@ -1,2 +1,3 @@
-# ExampleRepo
-My first GitHub repository!
+# My Example Repository
+
+Here's my changes to the repository!
